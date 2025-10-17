@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Millat Sarker Himel
 #### Full Stack Web Developer | JavaScript, React, Node.js, Express & MongoDB | Tailwind Enthusiast
-![Full Stack Web Developer | JavaScript, React, Node.js, Express & MongoDB | Tailwind Enthusiast](https://i.ibb.co.com/vC1NcC3z/Untitled-1-lock-screen.jpg)
+![Full Stack Web Developer | JavaScript, React, Node.js, Express & MongoDB | Tailwind Enthusiast](https://i.ibb.co.com/yFLMyNrV/github-banner.png)
 
 I’m a passionate developer from Bangladesh who loves building modern, user-friendly, and responsive web applications.  
 Currently pursuing my degree in **Computer Science and Technology** and exploring advanced web development tools.  
@@ -14,7 +14,7 @@ Skills: HTML, CSS, Tailwind, React, JavaScript, Node.js, Express, MongoDB
 - 📫 How to reach me: millatsarker224@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mh-millat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/millat-sarker-himel-717b7a2b2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/millatsarkerhimel)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mh-millat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/millat-sarker-himel-717b7a2b2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/millatsarkerhimel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mh_millat_)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
