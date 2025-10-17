@@ -1,8 +1,6 @@
-![Full Stack Web Developer | JavaScript, React, Node.js, Express & MongoDB | Tailwind Enthusiast](https://i.ibb.co.com/vC1NcC3z/Untitled-1-lock-screen.jpg)
-
 ### Hi there 👋, I'm Millat Sarker Himel
 #### Full Stack Web Developer | JavaScript, React, Node.js, Express & MongoDB | Tailwind Enthusiast
-
+![Full Stack Web Developer | JavaScript, React, Node.js, Express & MongoDB | Tailwind Enthusiast](https://i.ibb.co.com/vC1NcC3z/Untitled-1-lock-screen.jpg)
 
 I’m a passionate developer from Bangladesh who loves building modern, user-friendly, and responsive web applications.  
 Currently pursuing my degree in **Computer Science and Technology** and exploring advanced web development tools.  
